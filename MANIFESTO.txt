@@ -1,0 +1,33 @@
+Manifiesto de Principios del Proyecto Open Source "Rebecca IA"
+Introducción
+
+El proyecto "Rebecca IA" surge con la convicción de que la inteligencia artificial puede ser una herramienta poderosa para mejorar la calidad y eficiencia de los servicios de salud mental, facilitando las tareas administrativas y apoyando a profesionales como psicólogos, psiquiatras y terapeutas.
+
+Somos un grupo de desarrolladores comprometidos con el respeto a la ética profesional, la privacidad y la seguridad de los pacientes. Este manifiesto establece los principios fundamentales que guiarán el desarrollo, la implementación y el uso de "Rebecca IA", incluyendo el uso de un modelo de inteligencia artificial (LLM) que respetará los derechos y privacidad de los usuarios y será utilizado únicamente con fines legítimos y benéficos.
+
+Principios
+
+Finalidad de Ayuda y Optimización
+"Rebecca IA" está diseñado con el único fin de asistir a los profesionales de la salud mental en sus tareas administrativas, para que puedan dedicar más tiempo al acompañamiento y tratamiento de sus pacientes. No buscamos sustituir el juicio clínico ni interferir en el proceso terapéutico, sino facilitar el manejo de información relevante, siempre en línea con las normativas legales y éticas.
+
+Uso Ético del Modelo de IA (LLM)
+El modelo de lenguaje de inteligencia artificial (LLM) implementado en "Rebecca IA" será utilizado exclusivamente para asistir a los profesionales y pacientes en la gestión de sus datos y para ofrecer herramientas de autoexploración personal. Bajo ningún concepto será utilizado con fines maliciosos o para la manipulación de información. Nos comprometemos a que todo uso del modelo sea transparente y para el beneficio de la comunidad de salud mental.
+
+Respeto a la Privacidad y Protección de Datos
+Cumplimos estrictamente con la Ley 25.326 de Protección de Datos Personales de Argentina, asegurando que toda la información sensible de los pacientes esté protegida bajo los más altos estándares de seguridad. El almacenamiento y procesamiento de datos estará condicionado al consentimiento expreso de los pacientes, quienes serán informados de los fines específicos para los que se utilizan sus datos.
+
+Propiedad de los Datos Sensibles
+Los datos sensibles registrados y gestionados a través de "Rebecca IA" son propiedad exclusiva de los pacientes y del psiquiatra o psicólogo tratante. Esta información no será propiedad de terceros ni de los creadores o desarrolladores de la aplicación. Tanto los pacientes como los profesionales de la salud mental conservan pleno control sobre sus datos, garantizando la confidencialidad y acceso únicamente a las partes autorizadas.
+
+Transparencia y Consentimiento Informado
+Los pacientes y los profesionales tendrán pleno conocimiento de los datos que son recopilados, cómo son procesados, y las medidas de seguridad implementadas para protegerlos. Se proporcionarán herramientas para la gestión y el control de dicha información, incluida la opción de revocar el consentimiento en cualquier momento.
+
+Código Abierto y Participación Comunitaria
+Como proyecto de código abierto, "Rebecca IA" invita a la comunidad global de desarrolladores a participar en su mejora continua. Creemos que la colaboración abierta es esencial para garantizar que el software evolucione de manera ética, transparente y segura.
+
+Confidencialidad y Anonimización
+El sistema incluirá mecanismos que respeten la confidencialidad inherente a la relación entre los profesionales y sus pacientes. Asimismo, en aquellos casos donde sea necesario utilizar datos para análisis o investigación, se promoverá la anonimización de los mismos para proteger la identidad de los pacientes.
+
+Mejoras Continuas en Seguridad
+Nos comprometemos a adoptar y mejorar continuamente las medidas de seguridad para garantizar que "Rebecca IA" esté alineado con los últimos avances en protección de datos, encriptación y auditoría. Los riesgos serán evaluados de forma constante para mitigar cualquier amenaza.
+

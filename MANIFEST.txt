@@ -1,0 +1,29 @@
+Manifesto of Principles for the Open Source Project "Rebecca IA"
+Introduction
+
+The "Rebecca IA" project was created with the conviction that artificial intelligence can be a powerful tool to improve the quality and efficiency of mental health services, facilitating administrative tasks and supporting professionals such as psychologists, psychiatrists, and therapists.
+
+We are a group of developers committed to respecting professional ethics, privacy, and patient security. This manifesto establishes the core principles that will guide the development, implementation, and use of "Rebecca IA."
+
+Principles
+
+Purpose of Assistance and Optimization
+"Rebecca IA" is designed with the sole purpose of assisting mental health professionals in their administrative tasks so they can dedicate more time to patient care and treatment. We do not aim to replace clinical judgment or interfere with the therapeutic process but to facilitate the management of relevant information, always in line with legal and ethical standards.
+
+Respect for Privacy and Data Protection
+We are fully committed to complying with the provisions of Argentina’s Law 25.326 on Personal Data Protection. All sensitive patient data will be protected following the highest security standards. The collection and processing of data will require the explicit consent of patients, who will be informed of the specific purposes for which their data is used.
+
+Ownership of Sensitive Data
+The sensitive data recorded and managed through "Rebecca IA" belongs exclusively to the patients and the treating psychiatrist or psychologist. These data are not owned by any third party, nor by the creators or developers of the application. Both patients and mental health professionals retain full control over their data, ensuring the information remains confidential and accessible only to authorized parties.
+
+Transparency and Informed Consent
+Patients and professionals will have full knowledge of the data collected, how it is processed, and the security measures implemented to protect it. Tools will be provided for managing and controlling this information, including the option to withdraw consent at any time.
+
+Open Source and Community Participation
+As an open-source project, "Rebecca IA" invites the global developer community to contribute to its ongoing improvement. We believe that open collaboration is essential to ensure the software evolves ethically, transparently, and securely.
+
+Confidentiality and Anonymization
+The system will include mechanisms that respect the confidentiality inherent in the relationship between professionals and their patients. Furthermore, in cases where data needs to be used for research or analysis, anonymization will be encouraged to protect patient identity.
+
+Ongoing Security Enhancements
+We are committed to adopting and continuously improving security measures to ensure "Rebecca IA" remains aligned with the latest developments in data protection, encryption, and auditing. Risks will be constantly evaluated to mitigate potential threats.
